@@ -1,0 +1,16 @@
+C:\Users\weera\source\repos\WindowsApp7\WindowsApp7\bin\Debug\WindowsApp7.exe.config
+C:\Users\weera\source\repos\WindowsApp7\WindowsApp7\bin\Debug\WindowsApp7.exe
+C:\Users\weera\source\repos\WindowsApp7\WindowsApp7\bin\Debug\WindowsApp7.pdb
+C:\Users\weera\source\repos\WindowsApp7\WindowsApp7\bin\Debug\WindowsApp7.xml
+C:\Users\weera\source\repos\WindowsApp7\WindowsApp7\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\weera\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.vbprojAssemblyReference.cache
+C:\Users\weera\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.Form1.resources
+C:\Users\weera\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.Resources.resources
+C:\Users\weera\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.vbproj.GenerateResource.cache
+C:\Users\weera\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.vbproj.CoreCompileInputs.cache
+C:\Users\weera\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.vbproj.CopyComplete
+C:\Users\weera\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.exe
+C:\Users\weera\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.xml
+C:\Users\weera\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.pdb
+C:\Users\weera\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.PopupMenu.resources
+C:\Users\weera\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.Transparent.resources
