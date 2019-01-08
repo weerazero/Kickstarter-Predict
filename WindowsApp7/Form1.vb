@@ -34,10 +34,10 @@ Public Class Form1
 
 
     Private Sub timer2_go(ByVal sender As Object, ByVal e As EventArgs)
-        If logreg.Text = "Register" Then
-            reg()
-        ElseIf logreg.Text = "Login" Then
-            log()
+        If logreg.Text = "panel1" Then
+            Page1()
+        ElseIf logreg.Text = "panel2" Then
+            Page2()
         ElseIf logreg.Text = "panel3" Then
             Page3()
         End If
@@ -61,7 +61,7 @@ Public Class Form1
 
         End If
     End Sub
-    Private Sub reg()
+    Private Sub page2()
         If Panel2.Left > 0 Then
             timer1.Start()
 
@@ -84,7 +84,7 @@ Public Class Form1
         End If
     End Sub
 
-    Private Sub log()
+    Private Sub page1()
         If Panel1.Left < 0 Then
             timer1.Start()
 
@@ -100,13 +100,10 @@ Public Class Form1
 
 
 
-    Private Sub btn_Click(sender As Object, e As EventArgs)
-        logreg.Text = "Register"
-        timer2.Start()
-    End Sub
+
 
     Private Sub BunifuFlatButton1_Click(sender As Object, e As EventArgs) Handles BunifuFlatButton1.Click
-        logreg.Text = "Login"
+        logreg.Text = "panel1"
         timer2.Start()
         BunifuFlatButton1.Normalcolor = Color.FromArgb(243, 137, 32)
         BunifuFlatButton2.Normalcolor = Color.FromArgb(55, 55, 55)
@@ -115,7 +112,7 @@ Public Class Form1
     End Sub
 
     Private Sub BunifuFlatButton2_Click(sender As Object, e As EventArgs) Handles BunifuFlatButton2.Click
-        logreg.Text = "Register"
+        logreg.Text = "panel2"
         timer2.Start()
         BunifuFlatButton2.Normalcolor = Color.FromArgb(243, 137, 32)
         BunifuFlatButton1.Normalcolor = Color.FromArgb(55, 55, 55)
