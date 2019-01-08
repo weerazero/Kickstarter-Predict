@@ -1,5 +1,6 @@
 ﻿Imports System.Diagnostics
 Public Class Form1
+    Private Const V As String = ""
     Dim timer1 As Timer = New Timer()
     Dim timer2 As Timer = New Timer()
     Private logreg As Label = New Label()
@@ -144,6 +145,7 @@ Public Class Form1
 
     Private Sub ทำนายผล_Click(sender As Object, e As EventArgs) Handles ทำนายผล.Click
 
+
         Dim backer, goal As Double, name As String, backerCk = True, goalCk = True
 
         If txtName.Text <> "" Then
@@ -178,7 +180,7 @@ Public Class Form1
 
         End If
 
-
+        Clear()
         'name = txtNmae.Text
 
 
@@ -200,10 +202,18 @@ Public Class Form1
     End Sub
     Private Sub Clear()
         txtName.ResetText()
-
+        lbNameErr.Text = ""
+        lbBackerErr.Text = ""
+        lbGoalErr.Text = ""
         txtGoal.Text = ""
         txtBacker.Text = ""
 
+
+
+
+
+
     End Sub
+
 
 End Class

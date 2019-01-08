@@ -27,12 +27,32 @@ WindowsApp7
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:WindowsApp7.My.Resources.Resources.Capture1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp7.My.Resources.Resources.Capture2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp7.My.Resources.Resources.circlepng">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:WindowsApp7.My.Resources.Resources.fail">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
 <member name="P:WindowsApp7.My.Resources.Resources.success">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp7.My.Resources.Resources.Untitled">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>

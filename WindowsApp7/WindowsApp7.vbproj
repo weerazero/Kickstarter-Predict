@@ -150,5 +150,13 @@
   <ItemGroup>
     <None Include="picture\fail_640690.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="picture\Capture1.PNG" />
+    <Content Include="picture\Capture2.PNG" />
+    <None Include="Resources\Untitled.png" />
+    <None Include="Resources\circlepng.png" />
+    <None Include="Resources\Capture2.PNG" />
+    <None Include="Resources\Capture1.PNG" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
